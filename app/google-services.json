@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700766137290",
+    "project_id": "latihan-notif-7a8ba",
+    "storage_bucket": "latihan-notif-7a8ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700766137290:android:f279e7f6c6a2e4518c3d33",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmdXSBAY2B-jJ2iTcv5EmjSpjN8codkXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
